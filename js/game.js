@@ -233,10 +233,10 @@ var gameCustomScore = {
 //Social share, [SCORE] will replace with game score
 var shareEnable = true; //toggle share
 var shareText = 'SHARE YOUR SCORE'; //social share message
-var shareWinTitle = 'I won 45.6 billion on Survival Game.';//social share score title
-var shareWinMessage = 'I won 45.6 billion on Survival Game! Try it now!'; //social share score message
-var shareTitle = 'High score on Survival Game is ROUND [SCORE].';//social share score title
-var shareMessage = 'ROUND [SCORE] is my new high score on Survival Game! Try it now!'; //social share score message
+var shareWinTitle = 'I won 45.6 billion on SeiQuid Game.';//social share score title
+var shareWinMessage = 'I won 45.6 billion on SeiQuid Game! Try it now!'; //social share score message
+var shareTitle = 'High score on SeiQuid Game is ROUND [SCORE].';//social share score title
+var shareMessage = 'ROUND [SCORE] is my new high score on SeiQuid Game! Try it now!'; //social share score message
 				
 /*!
  *
